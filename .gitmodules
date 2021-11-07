@@ -1,0 +1,11 @@
+[submodule "dotfiles-ubuntu"]
+  path = dotfiles-ubuntu
+  url = git@github.com:konstantint/dotfiles-ubuntu.git
+  update = merge
+  branch = main
+[submodule "dotfiles-zsh"]
+  path = dotfiles-zsh
+  url = git@github.com:konstantint/dotfiles-zsh.git
+  update = merge
+  branch = main
+ 
