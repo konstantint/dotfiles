@@ -12,3 +12,6 @@
 [submodule "dotfiles-private"]
 	path = dotfiles-private
 	url = git@github.com:konstantint/dotfiles-private.git
+[submodule "dotfiles-geminicli"]
+	path = dotfiles-geminicli
+	url = git@github.com:konstantint/dotfiles-geminicli.git
