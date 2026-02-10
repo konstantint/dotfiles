@@ -9,3 +9,6 @@
   update = merge
   branch = main
  
+[submodule "dotfiles-private"]
+	path = dotfiles-private
+	url = git@github.com:konstantint/dotfiles-private.git
